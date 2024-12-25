@@ -1,0 +1,22 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="128" height="128" rx="28" fill="#007AFF"/>
+  
+  <!-- 外层白色容器 -->
+  <rect x="24" y="24" width="80" height="80" rx="12" fill="white"/>
+  
+  <!-- 左上角二维码模块 -->
+  <rect x="36" y="36" width="24" height="24" rx="4" fill="#007AFF"/>
+  <rect x="40" y="40" width="16" height="16" rx="2" fill="white"/>
+  
+  <!-- 右上角二维码模块 -->
+  <rect x="68" y="36" width="24" height="24" rx="4" fill="#007AFF"/>
+  <rect x="72" y="40" width="16" height="16" rx="2" fill="white"/>
+  
+  <!-- 左下角二维码模块 -->
+  <rect x="36" y="68" width="24" height="24" rx="4" fill="#007AFF"/>
+  <rect x="40" y="72" width="16" height="16" rx="2" fill="white"/>
+  
+  <!-- 中心定位点 -->
+  <rect x="68" y="68" width="24" height="24" rx="4" fill="#007AFF"/>
+</svg> 

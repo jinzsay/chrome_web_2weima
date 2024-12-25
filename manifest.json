@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "网页二维码",
+  "version": "1.0.0",
+  "description": "优雅地为当前网页生成二维码，支持扫码直接访问",
+  "icons": {
+    "16": "images/icon.svg",
+    "48": "images/icon.svg",
+    "128": "images/icon.svg"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "images/icon.svg"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+} 
